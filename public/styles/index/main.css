@@ -5,3 +5,25 @@
     right: 0;
     padding-bottom: 4vh;
 }
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
