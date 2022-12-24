@@ -32,3 +32,15 @@ a:hover {
     height: 60px;
     width: 90px;
 }
+
+.shadow-text {
+    text-shadow: 2px 4px 4px rgb(0, 0, 0);
+}
+
+.shadow {
+    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.8);
+}
+
+.center {
+    margin: auto;
+}
