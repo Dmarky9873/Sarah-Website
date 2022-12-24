@@ -27,3 +27,8 @@ a {
 a:hover {
     color: white;
 }
+
+.logo {
+    height: 60px;
+    width: 90px;
+}
